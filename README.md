@@ -24,7 +24,7 @@ An interactive movie streaming dashboard built with [H2O Wave](https://h2o.ai/pr
 Clone the repository:
 
 ```
-git clone https://github.com/your_username/movie-dashboard-h2o-wave.git
+git clone https://github.com/Abhijay2002/Movie_Recommendation_Dashboard_Using_H2O.git
 cd movie-dashboard-h2o-wave
 ```
 
